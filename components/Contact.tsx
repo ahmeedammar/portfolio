@@ -9,8 +9,8 @@ export default function Contact() {
                 </svg>
             ),
             title: 'Email',
-            value: 'ahmed.ammar123@gmail.com',
-            link: 'mailto:ahmed.ammar123@gmail.com',
+            value: 'ahmeed.ammar123@gmail.com',
+            link: 'mailto:ahmeed.ammar123@gmail.com',
             color: 'from-blue-500 to-cyan-500'
         },
         {
@@ -136,7 +136,7 @@ export default function Contact() {
                             LinkedIn
                         </a>
                         <a
-                            href="mailto:ahmed.ammar123@gmail.com"
+                            href="mailto:ahmeed.ammar123@gmail.com"
                             className="px-8 py-4 bg-white dark:bg-gray-800 text-gray-900 dark:text-white border-2 border-gray-100 dark:border-gray-700 rounded-2xl font-bold shadow-lg hover:shadow-xl hover:-translate-y-1 transition-all flex items-center gap-3"
                         >
                             <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">

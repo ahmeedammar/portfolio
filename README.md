@@ -225,7 +225,7 @@ This project is open source and available for personal use.
 ## 👤 Contact
 
 **Ahmed Ammar**
-- Email: ahmed.ammar123@gmail.com
+- Email: ahmeed.ammar123@gmail.com
 - Phone: +216 21 868 557
 - LinkedIn: [linkedin.com/in/ahmedammar](https://linkedin.com/in/ahmedammar)
 - GitHub: [github.com/ahmedammar](https://github.com/ahmedammar)
